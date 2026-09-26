@@ -1,5 +1,5 @@
 # CLASE-03-INT
-## CUADERNO de Gemini sobre la Materia: Investigación de Mercados Internacionales.
+## CUADERNO de Gemini sobre la Materia: SEGURIDAD EN OBRA
 **Descripción**
 * Utilizo los siguientes componentes de STUDIO:
   * Mapa Mental: xxx
